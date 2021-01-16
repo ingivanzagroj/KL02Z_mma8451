@@ -1,0 +1,11 @@
+fsl_smc.c:52:6:SMC_PreEnterStopModes	16	static
+fsl_smc.c:70:6:SMC_PostExitStopModes	16	static
+fsl_smc.c:83:6:SMC_PreEnterWaitModes	0	static
+fsl_smc.c:89:6:SMC_PostExitWaitModes	0	static
+fsl_smc.c:95:10:SMC_SetPowerModeRun	0	static
+fsl_smc.c:123:10:SMC_SetPowerModeWait	0	static
+fsl_smc.c:134:10:SMC_SetPowerModeStop	0	static
+fsl_smc.c:172:10:SMC_SetPowerModeVlpr	0	static
+fsl_smc.c:204:10:SMC_SetPowerModeVlpw	8	static
+fsl_smc.c:216:10:SMC_SetPowerModeVlps	0	static
+fsl_smc.c:304:10:SMC_SetPowerModeVlls	8	static

@@ -1,0 +1,10 @@
+fsl_cmp.c:78:6:CMP_Init	12	static
+fsl_cmp.c:129:6:CMP_Deinit	0	static
+fsl_cmp.c:140:6:CMP_GetDefaultConfig	0	static
+fsl_cmp.c:155:6:CMP_SetInputChannels	8	static
+fsl_cmp.c:181:6:CMP_SetFilterConfig	8	static
+fsl_cmp.c:206:6:CMP_SetDACConfig	0	static
+fsl_cmp.c:227:6:CMP_EnableInterrupts	0	static
+fsl_cmp.c:242:6:CMP_DisableInterrupts	0	static
+fsl_cmp.c:257:10:CMP_GetStatusFlags	0	static
+fsl_cmp.c:276:6:CMP_ClearStatusFlags	0	static
